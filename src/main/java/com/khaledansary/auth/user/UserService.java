@@ -24,4 +24,8 @@ public class UserService {
 		return users;
 	}
 
+	public User getUser(String id){
+		return users.stream().filter(t -> t.getId().equals(id)).findFirst().get();
+	}
+
 }
