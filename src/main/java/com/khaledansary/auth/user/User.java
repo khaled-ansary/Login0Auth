@@ -1,5 +1,9 @@
 package com.khaledansary.auth.user;
 
+/**
+ * @author Khaled
+ * 
+ */
 public class User {
 	
 	private Integer id;

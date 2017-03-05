@@ -6,6 +6,10 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
+/**
+ * @author Khaled
+ * 
+ */
 @Service
 public class UserService {
 	

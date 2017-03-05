@@ -3,6 +3,11 @@ package com.khaledansary.auth;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author Khaled
+ * 
+ */
+
 @SpringBootApplication
 public class Login0AuthApplication {
 
